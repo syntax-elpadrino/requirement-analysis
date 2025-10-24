@@ -68,3 +68,43 @@ Each activity contributes to transforming user needs into clearly defined system
 
 Together, these activities ensure that the development team builds a system that meets both **business objectives** and **user expectations** effectively.
 
+## Types of Requirements
+
+In software development, requirements are generally classified into two main categories: **Functional Requirements** and **Non-functional Requirements**.  
+Both types are essential to ensure the system performs correctly and provides a positive user experience.
+
+---
+
+### 1. Functional Requirements
+
+**Definition:**  
+Functional requirements describe *what the system should do*.  
+They define the specific behaviors, features, and functions the software must perform to meet user needs.
+
+**Examples (Booking Management System):**
+- The system shall allow users to create new bookings for available rooms.  
+- The system shall send confirmation emails after a booking is completed.  
+- The system shall allow users to cancel or modify their reservations.  
+- The system shall enable administrators to view all bookings and generate daily reports.  
+- The system shall allow users to make payments securely using credit cards or mobile money.  
+
+These requirements directly determine the system’s functionality and guide developers during implementation.
+
+---
+
+### 2. Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements specify *how the system performs its functions*.  
+They describe the quality attributes, performance standards, and constraints of the system rather than specific behaviors.
+
+**Examples (Booking Management System):**
+- The system should load the booking page within **3 seconds** under normal network conditions.  
+- The application should be available **99.9% of the time** to ensure reliability.  
+- User data must be encrypted during transmission and storage for security.  
+- The interface should be responsive and accessible on mobile, tablet, and desktop devices.  
+- The system should support at least **10,000 concurrent users** without performance degradation.  
+
+Non-functional requirements help define the **usability, reliability, performance, and security** of the system — ensuring that it not only works, but works *well*.
+
+Together, functional and non-functional requirements provide a complete understanding of **what** the system should do and **how well** it should perform.
