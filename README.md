@@ -143,3 +143,29 @@ Below is a sample Use Case Diagram for the **Booking Management System**.
 
 The diagram shows how customers and administrators interact with the system, and how the payment gateway supports transaction processing.
 
+## Acceptance Criteria
+
+**Acceptance Criteria** are the predefined conditions or statements that a software feature must meet to be accepted by the client, user, or testing team.  
+They describe the boundaries of a user story or feature and define what “done” means from a stakeholder’s perspective.
+
+### Importance of Acceptance Criteria
+- **Ensures clarity:** Clearly defines what needs to be built and tested, preventing misunderstandings between developers and clients.  
+- **Supports validation and testing:** Provides measurable conditions to verify whether a feature meets requirements.  
+- **Improves communication:** Acts as a shared reference point between stakeholders, developers, and QA testers.  
+- **Reduces scope creep:** Helps the team stay focused on agreed-upon deliverables.  
+- **Boosts quality assurance:** Ensures that features align with business goals and user expectations before release.
+
+### 🧾 Example: Acceptance Criteria for the Checkout Feature
+
+**Feature:** Checkout in the Booking Management System
+
+**Acceptance Criteria:**
+1. The user must be able to view a summary of their booking before proceeding to payment.  
+2. The checkout page must display the total amount, including taxes and service fees.  
+3. The user must be able to choose a payment method (credit card or mobile money).  
+4. The system must validate payment details before submission.  
+5. On successful payment, a confirmation email should be sent automatically to the user.  
+6. If the payment fails, the user should receive an error message and be prompted to try again.  
+7. The system must securely store payment transaction details for record-keeping.  
+
+In summary, **acceptance criteria act as a checklist** for determining whether a feature functions correctly, meets user expectations, and is ready for deployment.
