@@ -35,3 +35,36 @@ Identifying requirements early helps detect issues before development begins. Co
 When requirements are well-defined and aligned with user needs, the resulting software is more reliable, user-friendly, and effective. This leads to higher customer satisfaction and builds trust between the development team and the client.
 
 In essence, **requirement analysis is the backbone of a successful software project**, ensuring that the right product is built the right way.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that ensure the software requirements are well understood, accurate, and complete.  
+Each activity contributes to transforming user needs into clearly defined system requirements.
+
+### 1. Requirement Gathering
+- This is the initial step where information is collected from stakeholders such as clients, users, and subject matter experts.  
+- The goal is to understand their expectations, business objectives, and system needs.  
+- Techniques used include interviews, surveys, observations, and studying existing documentation.
+
+### 2. Requirement Elicitation
+- Involves extracting and clarifying requirements through interactive sessions with stakeholders.  
+- Helps uncover hidden, conflicting, or unclear requirements that might not be directly stated.  
+- Common techniques include brainstorming, workshops, focus groups, and use case analysis.
+
+### 3. Requirement Documentation
+- All gathered and elicited requirements are recorded in a structured format, usually in a **Software Requirements Specification (SRS)** document.  
+- Documentation ensures that everyone has a reference point for what is expected in the project.  
+- It also supports traceability and accountability throughout the SDLC.
+
+### 4. Requirement Analysis and Modeling
+- The collected requirements are analyzed to identify feasibility, consistency, completeness, and priority.  
+- Models such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), and use case diagrams are created to visualize the system.  
+- This step bridges the gap between business needs and technical design.
+
+### 5. Requirement Validation
+- Ensures that all documented requirements truly represent the client’s needs and align with business goals.  
+- Involves reviewing, prototyping, and walkthroughs with stakeholders.  
+- Validation helps detect and correct errors before development begins, saving time and costs later.
+
+Together, these activities ensure that the development team builds a system that meets both **business objectives** and **user expectations** effectively.
+
