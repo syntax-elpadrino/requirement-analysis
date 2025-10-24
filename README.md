@@ -108,3 +108,38 @@ They describe the quality attributes, performance standards, and constraints of 
 Non-functional requirements help define the **usability, reliability, performance, and security** of the system — ensuring that it not only works, but works *well*.
 
 Together, functional and non-functional requirements provide a complete understanding of **what** the system should do and **how well** it should perform.
+
+## Use Case Diagrams
+
+A **Use Case Diagram** is a visual representation that shows how different users (called *actors*) interact with a system.  
+It helps identify the system’s functionality from the user’s perspective and clarifies the relationships between users and the actions they can perform.
+
+### Benefits of Use Case Diagrams
+- **Simplifies understanding** — shows what the system does without going into technical details.  
+- **Improves communication** between developers, clients, and stakeholders.  
+- **Helps identify requirements** early in the project.  
+- **Guides testing** by outlining the main user interactions that need verification.
+
+---
+
+### 🎯 Example: Booking Management System Use Case Diagram
+
+Below is a sample Use Case Diagram for the **Booking Management System**.
+
+**Actors:**
+- **Customer** – books, views, or cancels a reservation.  
+- **Administrator** – manages bookings, rooms, and generates reports.  
+- **Payment Gateway** – handles secure payment processing.
+
+**Use Cases:**
+- Create Booking  
+- View Booking  
+- Modify/Cancel Booking  
+- Process Payment  
+- Manage Rooms  
+- Generate Reports
+
+![Use Case Diagram for Booking Management System](alx-booking-uc.png)
+
+The diagram shows how customers and administrators interact with the system, and how the payment gateway supports transaction processing.
+
